@@ -11,5 +11,9 @@
     "url": "\u0016https://github.com/rgarro/Three.js-TypeScript-Tutorial.git"
   },
   "author": "Rolando",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.127.1",
+    "three": "^0.127.0"
+  }
 }
